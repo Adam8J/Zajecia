@@ -12,7 +12,7 @@ public class Main {
         System.out.println("ile masz lat");
         int age =sc.nextInt();
         if (age <18 ) {
-            System.out.println("do widzenia " + name + name2;
+            System.out.println("do widzenia");
         }else{
             System.out.println("witamy");
         }
